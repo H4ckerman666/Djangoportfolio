@@ -1,15 +1,22 @@
-## Django Portofolio Example
+## Mi Portafolio en Django
 
-this is a basic portfolio in dark mode
-![](./screenshot.png)
+Este es mi portafolio con tematica dark
 
-### Installation
+## Tecnologías Utilizadas
+- Django
+- Python
+- Css
+- Bootstrap
+- HTML5
+- PythonAnywhere (Alojamiento)
 
-```
-git clone https://github.com/FaztWeb/django-portfolio-simple.git
-cd django-portfolio-simple
-pip install -r requirements.txt
-python manage.py runserver
-```
+## Funcionalidad
 
-now you can visit <a href="http://localhost:8000" target="_blank">http://localhost:8000</a>
+
+- Muestra de projectos propios
+- Más información sobre mi
+- Descargar mi Cv
+
+## Test
+
+Puedes ver este proyecto alojado en el siguiente link : [My Portfolio](https://jesusrobles.pythonanywhere.com/)
